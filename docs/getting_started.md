@@ -11,7 +11,9 @@ Follow these [instructions](http://beagleboard.org/getting-started).
 ## Install Ubuntu
 See this [guide](http://elinux.org/BeagleBoardUbuntu).  I prefer this [method](http://elinux.org/BeagleBoardUbuntu#eMMC:_BeagleBone_Black.2FGreen).
 
-## (Optional) Buy and Configure Wireless Antennae
+## (Optional) Buy and Configure Wireless Antenna
 This is good because it means the BBB need not be tethered to a computer or router in order to have an internet connection.  Bad news is that more -- and more reliable -- power supply is required.
+
+Here's the [wifi antenna](http://www.logicsupply.com/uwn200/) I bought; long range, and little interference from the BBB.
 
 ## Install ROS (the Robotics Operating System)
