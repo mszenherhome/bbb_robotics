@@ -9,7 +9,7 @@ I like getting them from [adafruit](http://www.adafruit.com).  I usually get a s
 Follow these [instructions](http://beagleboard.org/getting-started).
 
 ## Install Ubuntu
-See this [guide](http://elinux.org/BeagleBoardUbuntu)
+See this [guide](http://elinux.org/BeagleBoardUbuntu).  I prefer this [method](http://elinux.org/BeagleBoardUbuntu#eMMC:_BeagleBone_Black.2FGreen).
 
 ## (Optional) Buy and Configure Wireless Antennae
 This is good because it means the BBB need not be tethered to a computer or router in order to have an internet connection.  Bad news is that more -- and more reliable -- power supply is required.
