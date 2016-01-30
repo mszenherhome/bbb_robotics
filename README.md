@@ -2,4 +2,4 @@
 
 Repository of links, instructions and code for BeagleBone Black-based robotics projects.
 
-* [Getting Started](./getting_started.md)
+* [Getting Started](./docs/getting_started.md)
